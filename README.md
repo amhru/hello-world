@@ -1,2 +1,4 @@
 # hello-world
-First repository 
+
+Hello World,
+Amira here. This is my first time using gitHub :)
